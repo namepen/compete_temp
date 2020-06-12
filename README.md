@@ -1,2 +1,3 @@
 # compete_temp
-임시 저장용
+
+Project 텝 test용 저장소입니다.
